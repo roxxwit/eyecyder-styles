@@ -10,7 +10,8 @@
   color: var(--color-primary) !important;
   font-family: "Playfair Display", serif !important;
   font-weight: 700 !important;
-  font-size: var(--font-size-md) !important;
+  font-size: var(--font-size-xl) !important;
+  font-style: italic !important;
 }
 
 .horizontal-menu .shop-left-menu span > ul {
@@ -18,5 +19,5 @@
 }
 
 .horizontal-menu .shop-left-menu {
-  text-align: left !important;
+  text-align: center !important;
 }
