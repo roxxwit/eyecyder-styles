@@ -1,0 +1,22 @@
+.horizontal-menu .shop-left-menu span > ul > li > a,
+.horizontal-menu .shop-left-menu span > ul > li > a.selected,
+.horizontal-menu .shop-left-menu span > ul > li > a:hover {
+  border: none !important;
+  border-bottom: none !important;
+  border-color: transparent !important;
+  background-color: transparent !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  color: var(--color-primary) !important;
+  font-family: "Playfair Display", serif !important;
+  font-weight: 700 !important;
+  font-size: var(--font-size-md) !important;
+}
+
+.horizontal-menu .shop-left-menu span > ul {
+  justify-content: flex-start !important;
+}
+
+.horizontal-menu .shop-left-menu {
+  text-align: left !important;
+}
