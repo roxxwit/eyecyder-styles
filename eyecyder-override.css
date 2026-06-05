@@ -10,14 +10,14 @@
   color: var(--color-primary) !important;
   font-family: "Playfair Display", serif !important;
   font-weight: 700 !important;
-  font-size: var(--font-size-xl) !important;
-  font-style: italic !important;
+  font-size: var(--font-size-md) !important;
+  text-decoration: none !important; 
+  white-space: nowrap !important;  
 }
 
 .horizontal-menu .shop-left-menu span > ul {
-  justify-content: center !important;
-}
-
-.horizontal-menu .shop-left-menu {
-  text-align: center !important;
+  justify-content: flex-start !important;
+  display: flex !important;
+  gap: 1.5rem !important;
+  padding-left: 0 !important; 
 }
