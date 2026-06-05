@@ -10,26 +10,10 @@
   color: var(--color-primary) !important;
   font-family: "Playfair Display", serif !important;
   font-weight: 700 !important;
-  font-size: var(--font-size-md) !important;
-  text-decoration: none !important; 
-  white-space: nowrap !important;  
+  font-size: var(--font-size-xl) !important;
+  font-style: italic !important;
 }
 
 .horizontal-menu .shop-left-menu span > ul {
-  justify-content: flex-start !important;
-  display: flex !important;
-  gap: 1.5rem !important;
-  padding-left: 0 !important; 
-}
-
-#cke_pastebin,
-.group-summary {
-  max-width: 800px !important;
-  margin: 0 auto 3rem auto !important;
-  padding: 1.5rem 2rem !important;
-  text-align: center !important;
-  background-color: transparent !important;
-  font-family: inherit !important;
-  line-height: 1.6 !important;
-  border-bottom: 1px solid rgba(var(--color-primary-rgb, 0, 0, 0), 0.15) !important;
+  justify-content: center !important;
 }
