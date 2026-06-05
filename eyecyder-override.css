@@ -15,6 +15,9 @@
 }
 
 .horizontal-menu .shop-left-menu span > ul {
-  justify-content: flex-start !important;
+  justify-content: center !important;
 }
 
+.horizontal-menu .shop-left-menu {
+  text-align: center !important;
+}
